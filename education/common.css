@@ -1,0 +1,40 @@
+
+.contents{
+  margin:20px;
+}
+h2{
+  margin:0;
+}
+
+input[type="text"]{
+  min-width:200px;
+  line-height:30px;
+  border:1px solid #DDD;
+}
+
+textarea{
+  min-height:80px;
+  min-width:200px;
+  border:1px solid #DDD;
+}
+
+.comment-btn{
+  text-align:right;
+}
+button{
+  cursor:pointer;
+}
+.comment-btn:hover{
+  opacity:0.7;
+}
+
+.sentence{
+  padding:8px;
+}
+.sentence:hover{
+  background-color:#FEE;
+}
+
+.center {
+   text-align: center;
+}
